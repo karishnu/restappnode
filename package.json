@@ -1,0 +1,11 @@
+{
+    "name": "restaurant-app",
+    "description": "Restaurant Application",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "~3.8.22",
+        "body-parser": "~1.0.1"
+    }
+}
